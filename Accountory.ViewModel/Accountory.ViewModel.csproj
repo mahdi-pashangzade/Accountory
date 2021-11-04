@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Authors>Mahdi_P_Z</Authors>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+
+</Project>

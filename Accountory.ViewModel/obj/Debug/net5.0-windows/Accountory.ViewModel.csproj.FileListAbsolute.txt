@@ -1,0 +1,12 @@
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\bin\Debug\net5.0-windows\Accountory.ViewModel.deps.json
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\bin\Debug\net5.0-windows\Accountory.ViewModel.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\bin\Debug\net5.0-windows\ref\Accountory.ViewModel.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\bin\Debug\net5.0-windows\Accountory.ViewModel.pdb
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\obj\Debug\net5.0-windows\Accountory.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\obj\Debug\net5.0-windows\Accountory.ViewModel.AssemblyInfoInputs.cache
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\obj\Debug\net5.0-windows\Accountory.ViewModel.AssemblyInfo.cs
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\obj\Debug\net5.0-windows\Accountory.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\obj\Debug\net5.0-windows\Accountory.ViewModel.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\obj\Debug\net5.0-windows\ref\Accountory.ViewModel.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\obj\Debug\net5.0-windows\Accountory.ViewModel.pdb
+C:\Users\mahdi\source\repos\Accountory\Accountory.ViewModel\obj\Debug\net5.0-windows\Accountory.ViewModel.csproj.AssemblyReference.cache

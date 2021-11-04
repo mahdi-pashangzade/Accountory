@@ -1,0 +1,12 @@
+C:\Users\mahdi\source\repos\Accountory\Accountory.Business\bin\Debug\net5.0-windows\Accountory.Business.deps.json
+C:\Users\mahdi\source\repos\Accountory\Accountory.Business\bin\Debug\net5.0-windows\Accountory.Business.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.Business\bin\Debug\net5.0-windows\ref\Accountory.Business.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.Business\bin\Debug\net5.0-windows\Accountory.Business.pdb
+C:\Users\mahdi\source\repos\Accountory\Accountory.Business\obj\Debug\net5.0-windows\Accountory.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\source\repos\Accountory\Accountory.Business\obj\Debug\net5.0-windows\Accountory.Business.AssemblyInfoInputs.cache
+C:\Users\mahdi\source\repos\Accountory\Accountory.Business\obj\Debug\net5.0-windows\Accountory.Business.AssemblyInfo.cs
+C:\Users\mahdi\source\repos\Accountory\Accountory.Business\obj\Debug\net5.0-windows\Accountory.Business.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\Accountory\Accountory.Business\obj\Debug\net5.0-windows\Accountory.Business.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.Business\obj\Debug\net5.0-windows\ref\Accountory.Business.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.Business\obj\Debug\net5.0-windows\Accountory.Business.pdb
+c:\Users\mahdi\source\repos\Accountory\Accountory.Business\obj\Debug\net5.0-windows\Accountory.Business.csproj.AssemblyReference.cache

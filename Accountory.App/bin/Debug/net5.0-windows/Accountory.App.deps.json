@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Accountory.App/1.0.0.0": {
+        "dependencies": {
+          "Accountory.Business": "1.0.0",
+          "Accountory.DataLayer": "1.0.0",
+          "Accountory.Utility": "1.0.0",
+          "Accountory.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "Accountory.App.dll": {}
+        }
+      },
+      "Accountory.Business/1.0.0": {
+        "runtime": {
+          "Accountory.Business.dll": {}
+        }
+      },
+      "Accountory.DataLayer/1.0.0": {
+        "runtime": {
+          "Accountory.DataLayer.dll": {}
+        }
+      },
+      "Accountory.Utility/1.0.0": {
+        "runtime": {
+          "Accountory.Utility.dll": {}
+        }
+      },
+      "Accountory.ViewModel/1.0.0": {
+        "runtime": {
+          "Accountory.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accountory.App/1.0.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accountory.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accountory.DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accountory.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accountory.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

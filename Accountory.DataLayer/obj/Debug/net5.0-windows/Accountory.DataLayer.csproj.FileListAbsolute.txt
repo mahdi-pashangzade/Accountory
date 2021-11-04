@@ -1,0 +1,12 @@
+C:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\bin\Debug\net5.0-windows\Accountory.DataLayer.deps.json
+C:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\bin\Debug\net5.0-windows\Accountory.DataLayer.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\bin\Debug\net5.0-windows\ref\Accountory.DataLayer.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\bin\Debug\net5.0-windows\Accountory.DataLayer.pdb
+C:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\obj\Debug\net5.0-windows\Accountory.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\obj\Debug\net5.0-windows\Accountory.DataLayer.AssemblyInfoInputs.cache
+C:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\obj\Debug\net5.0-windows\Accountory.DataLayer.AssemblyInfo.cs
+C:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\obj\Debug\net5.0-windows\Accountory.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\obj\Debug\net5.0-windows\Accountory.DataLayer.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\obj\Debug\net5.0-windows\ref\Accountory.DataLayer.dll
+C:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\obj\Debug\net5.0-windows\Accountory.DataLayer.pdb
+c:\Users\mahdi\source\repos\Accountory\Accountory.DataLayer\obj\Debug\net5.0-windows\Accountory.DataLayer.csproj.AssemblyReference.cache

@@ -1,0 +1,170 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Accountory.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Accountory.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Accountory.Business.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Accountory.DataLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Accountory.DataLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Accountory.DataLayer.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Accountory.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Accountory.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Accountory.Utility.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Accountory.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Accountory.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Accountory.ViewModel.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Accountory.Business/1.0.0": {
+      "type": "project",
+      "path": "../Accountory.Business/Accountory.Business.csproj",
+      "msbuildProject": "../Accountory.Business/Accountory.Business.csproj"
+    },
+    "Accountory.DataLayer/1.0.0": {
+      "type": "project",
+      "path": "../Accountory.DataLayer/Accountory.DataLayer.csproj",
+      "msbuildProject": "../Accountory.DataLayer/Accountory.DataLayer.csproj"
+    },
+    "Accountory.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Accountory.Utility/Accountory.Utility.csproj",
+      "msbuildProject": "../Accountory.Utility/Accountory.Utility.csproj"
+    },
+    "Accountory.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../Accountory.ViewModel/Accountory.ViewModel.csproj",
+      "msbuildProject": "../Accountory.ViewModel/Accountory.ViewModel.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Accountory.Business >= 1.0.0",
+      "Accountory.DataLayer >= 1.0.0",
+      "Accountory.Utility >= 1.0.0",
+      "Accountory.ViewModel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mahdi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\mahdi\\source\\repos\\Accountory\\Accountory.App\\Accountory.App.csproj",
+      "projectName": "Accountory.App",
+      "projectPath": "c:\\Users\\mahdi\\source\\repos\\Accountory\\Accountory.App\\Accountory.App.csproj",
+      "packagesPath": "C:\\Users\\mahdi\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\mahdi\\source\\repos\\Accountory\\Accountory.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "c:\\Users\\mahdi\\source\\repos\\Accountory\\Accountory.Business\\Accountory.Business.csproj": {
+              "projectPath": "c:\\Users\\mahdi\\source\\repos\\Accountory\\Accountory.Business\\Accountory.Business.csproj"
+            },
+            "c:\\Users\\mahdi\\source\\repos\\Accountory\\Accountory.DataLayer\\Accountory.DataLayer.csproj": {
+              "projectPath": "c:\\Users\\mahdi\\source\\repos\\Accountory\\Accountory.DataLayer\\Accountory.DataLayer.csproj"
+            },
+            "c:\\Users\\mahdi\\source\\repos\\Accountory\\Accountory.Utility\\Accountory.Utility.csproj": {
+              "projectPath": "c:\\Users\\mahdi\\source\\repos\\Accountory\\Accountory.Utility\\Accountory.Utility.csproj"
+            },
+            "c:\\Users\\mahdi\\source\\repos\\Accountory\\Accountory.ViewModel\\Accountory.ViewModel.csproj": {
+              "projectPath": "c:\\Users\\mahdi\\source\\repos\\Accountory\\Accountory.ViewModel\\Accountory.ViewModel.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
